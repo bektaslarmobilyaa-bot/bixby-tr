@@ -1,0 +1,4 @@
+﻿<resources>
+    <string name="app_name">Bixby Türkçe Köprü</string>
+    <string name="accessibility_desc">Türkçe sesli komutları İngilizceye çevirip Bixby sistemine iletir.</string>
+</resources>
